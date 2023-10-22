@@ -3,6 +3,12 @@ Leveraging a Spam Text Classification example, different base word embedding tec
 
 <div align="center">
   
+  |      | Precision | Recall | Accuracy |
+|------|-----------|--------|----------|
+| TF-IDF | 100%     | 83.1%  | 97.8%    |
+| word2vec | 60%     | 22.3%  | 87.7%    |
+| doc2vec | 86.8%     | 44.6%  | 91.7%    |
+| RNN | 98.7%     | 96.9%  | 93.3%    |
 
 
 
